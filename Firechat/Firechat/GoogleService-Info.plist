@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>412778019971-r6btidtrtit9ctmkechpln9oisv8f25p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412778019971-r6btidtrtit9ctmkechpln9oisv8f25p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA65oDebij3rVgoSHi6EiZklgZgRK20DEM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412778019971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Siddhant-Sahare.Firechat</string>
+	<key>PROJECT_ID</key>
+	<string>firechat-6dd18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firechat-6dd18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412778019971:ios:beb7b1647d607e85</string>
+	<key>DATABASE_URL</key>
+	<string>https://firechat-6dd18.firebaseio.com</string>
+</dict>
+</plist>
